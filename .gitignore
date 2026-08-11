@@ -1,0 +1,17 @@
+# Local database credentials
+src/Resources/database.properties
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Java build output
+out/
+build/
+target/
+*.class
+
+# OS files
+.DS_Store
+Thumbs.db
